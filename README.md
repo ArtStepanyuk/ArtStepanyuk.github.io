@@ -1,36 +1,34 @@
-Strange Case
-============
+dbyll
+=====
 
-Strange Case is a simple, clean and responsive theme for Jekyll. 
+Open source stylish, minimalistic theme for jekyll.  
+Demo: http://dbtek.github.io/dbyll/
+
+## New
+Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-ghost) now.
+
+### Features
+- Responsive layout.
+- Supports tags and categories.
+- Social profile and bio of author.
+- Bootstrap based.
+- Glyphicon and Font-Awesome Icons.
+- Pagination.
+- Syntax highlighting with pygments.
+- Disqus comments.
 
 
-### Demo 
-
-[Demo](http://thephuse.github.io/strange_case/)
-
-### Overview 
-
-* Fixed Sidebar with cover image
-* Minimal design 
-* Easy to configure
-* Browser support: Latest releases of Chrome, Safari, Firefox, Mobile Safari and IE 9+.
+### Download
+* [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
 
 ### Screenshots
 
-![screenshot](/images/screenshot1.png)
-![screenshot](/images/screenshot2.png)
-
-### Setup
-
-1. Install [Jekyll](http://jekyllrb.com/)
-2. Fork or [download](https://github.com/thephuse/strange_case) this theme repo
-3. Edit the `_config.yml` file (if you make any additional changes to this file, you will need to stop and restart your command in the next step)
-4. From your command line, switch to your site directory and build using `jekyll serve`
-5. Site will be accessible by viewing http://localhost:4000/strange_case/
-
-### Download
-
-[Download](https://github.com/thephuse/strange_case)
+![dbyll-screenshot](	assets/media/dbyll-ss.png)
 
 ### License
-* [MIT](http://opensource.org/licenses/MIT)
+- [MIT](http://opensource.org/licenses/MIT)
+
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/dbyll/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
