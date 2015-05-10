@@ -1,16 +1,16 @@
 ---
 layout: post
-title: Hello World!
+title: Happy Anniversary! New Eden Is 12 Years Old!
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
 ---
 
 
-Happy Anniversary! New Eden Is 12 Years Old!
+
 2015-05-06 13:38 By CCP Falcon
 
-<img src="http://web.ccpgamescdn.com/newssystem/media/67190/1/Fireworks_2.jpg" alt="">
+<img src="assets/media/1.jpg" alt="">
 EVE Online celebrates its 12th birthday today, and here at CCP we'd like to wish a Happy 12th anniversary to our entire community!
 
 Today marks a point in time 12 years ago when a flood of new identities were created in New Eden, and a handful of intrepid pilots took to the stars to explore a cold, harsh and unforgiving new world. Over a decade later that world has been transformed by players across the globe, becoming one of the largest and most vibrant works of science fiction in existence.
