@@ -1,12 +1,9 @@
 # Site settings
-title: Test
-email: lmasamunel1988@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  IM NOT SURE THIS WORKS but if it does im gonna write some stuff there about what this site gonna do or not
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://artstepanyuk.github.io/" # the base hostname & protocol for your site
-twitter_username: No Twitter yet
-github_username:  ArtStepanyuk
+title: 'Strange Case' # Your Title
+tagline: 'Twisted tales to make you shudder' # A brief tagline for your site
+sidebar_image: /images/cover.jpg
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
+baseurl: /strange_case # the subpath of your site, e.g. /blog/

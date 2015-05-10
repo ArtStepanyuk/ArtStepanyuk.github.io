@@ -1,48 +1,47 @@
 ---
 layout: default
 ---
-<style>
-  .masthead-inner {
-     
-    background-color: black;
-    color: white;
-    height: 392px;
-    line-height: 33px;
-    padding-left: 15px;
-    padding-top: 80px;
-    position: absolute;
-    right: 0;
-    text-align: left;
-    text-indent: 15px;
-    width: 400px;}
+<header style="background-image: url({{ site.baseurl }}{{ page.featured_image }});">
+  <div class="container post-container">
+    <a href="{{ site.baseurl }}/" class="home_button"></a>
+    <div class="inner-container">
+      <h1>{{ page.title }}</h1>
+      <ul class="meta">
+        <li>
+          <span>
+            Published
+          </span>
+          {{ page.date | date_to_string }}
+        </li>
+        <li>
+          <span>
+            Category
+          </span>
+          {{ page.categories }}
+        </li>
+      </ul>      
+    </div>
+    <ul class="pagination">
+      {% if page.previous.url %}
+        <li class="previous">
+          <a href="{{ site.baseurl }}{{ page.previous.url }}">
+            Previous
+          </a>
+        </li>
+      {% endif %}
+      {% if page.next.url %}
+      <li class="next">
+        <a href="{{ site.baseurl }}{{ page.next.url }}">
+          Next
+        </a>
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+</header>
 
-</style>
-<header class="masthead">
-      <div class="masthead-inner">
-        <h1>My blog that doesnt work</h1>
-        <p class="lead">Place where im gonna write about stuff or not most likelly not i also need to learn how to use , otherwise it will be hard to read</p>
-
-        <div class="colophon">
-          <ul class="colophon-links">
-            <li>
-              <a href="https://github.com/artstepanyuk/v{{ site.version }}.zip">Download</a>
-            </li>
-           
-            <li>Currently v{{ site.version }}</li>
-          </ul>
-          <p>&copy; 2015. All rights reserved.</p>
-        </div>
-      </div>
-    </header>
-<div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
-
-  <article class="post-content">
+<article>
+  <div class="container">
     {{ content }}
-  </article>
-
-</div>
+  </div>
+</article>

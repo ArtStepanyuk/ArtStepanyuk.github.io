@@ -1,51 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TEST</title>
-    <description>IM NOT SURE THIS WORKS but if it does im gonna write some stuff there about what this site gonna do or not
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://artstepanyuk.github.io//</link>
-    <atom:link href="http://artstepanyuk.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Apr 2015 21:25:02 +0300</pubDate>
-    <lastBuildDate>Sat, 18 Apr 2015 21:25:02 +0300</lastBuildDate>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 May 2015 21:07:21 +0300</pubDate>
+    <lastBuildDate>Sun, 10 May 2015 21:07:21 +0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
-    
-      <item>
-        <title>first post!</title>
-        <description>&lt;p&gt;Lets see if this works and i got it right&lt;/p&gt;
-
-&lt;p&gt;Para test&lt;/p&gt;
-&lt;p&gt;no prewriten styles&lt;/p&gt;
-&lt;h1&gt;H1 teg&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;no prewriten styles&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;2015-04-18-welcome-to-jekyll.markdown&quot;&gt;test link&lt;/a&gt; 
-&lt;br /&gt;
-&lt;img src=&quot;https://2ch.hk/ukr/src/376043/14290839368730.jpg&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt; online linking&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;layout: post
-title:  “second post!”
-date:   2015-04-18 13:08:47
-categories: i dunno
-—&lt;/p&gt;
-
-&lt;p&gt;here maybe ill try to play with divs
-&lt;img src=&quot;/assets/1.jpg&quot; alt=&quot;&quot; /&gt;
-local picture bleh&lt;/p&gt;
-</description>
-        <pubDate>Sat, 18 Apr 2015 16:08:47 +0300</pubDate>
-        <link>http://artstepanyuk.github.io//jekyll/update/2015/04/18/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://artstepanyuk.github.io//jekyll/update/2015/04/18/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -64,14 +27,140 @@ local picture bleh&lt;/p&gt;
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 13 Apr 2015 16:08:47 +0300</pubDate>
-        <link>http://artstepanyuk.github.io//jekyll/update/2015/04/13/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://artstepanyuk.github.io//jekyll/update/2015/04/13/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 11 May 2015 00:03:59 +0300</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/05/11/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/05/11/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Strange Case of Dr Jekyll and Mr Hyde</title>
+        <description>&lt;p&gt;Strange Case of Dr Jekyll and Mr Hyde is the original title of a novella written by the Scottish author &lt;a href=&quot;&quot;&gt;Robert Louis Stevenson&lt;/a&gt; that was first published in 1886. The work is commonly known today as The Strange Case of Dr. Jekyll and Mr. Hyde, Dr. Jekyll and Mr. Hyde, or simply Jekyll &amp;amp; Hyde. It is about a London lawyer named Gabriel John Utterson who investigates strange occurrences between his old friend, Dr. Henry Jekyll, and the evil Edward Hyde.&lt;/p&gt;
+
+&lt;h2 id=&quot;inspiration--writing&quot;&gt;Inspiration &amp;amp; Writing&lt;/h2&gt;
+
+&lt;p&gt;Stevenson had long been intrigued by the idea of how personalities can affect a human and how to incorporate the interplay of good and evil into a story. While still a teenager, he developed a script for a play about Deacon Brodie, which he later reworked with the help of W. E. Henley and saw produced for the first time in 1882. In early 1884 he wrote the short story “Markheim”, which he revised in 1884 for publication in a Christmas annual. One night in late September or early October 1885, possibly while he was still revising “Markheim,” Stevenson had a dream, and upon wakening had the intuition for two or three scenes that would appear in the story. Biographer Graham Balfour quoted Stevenson’s wife Fanny Stevenson:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“In the small hours of one morning, I was awakened by cries of horror from Louis. Thinking he had a nightmare, I awakened him. He said angrily: ‘Why did you wake me? I was dreaming a fine bogey tale.’ I had awakened him at the first transformation scene.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;main-characters&quot;&gt;Main Characters&lt;/h2&gt;
+
+&lt;p&gt;The story revolves around &lt;strong&gt;8 main characters&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dr. Henry Jekyll/Edward Hyde&lt;/li&gt;
+  &lt;li&gt;Mr. Gabriel John Utterson&lt;/li&gt;
+  &lt;li&gt;Richard Enfield&lt;/li&gt;
+  &lt;li&gt;Dr. Hastie Lanyon&lt;/li&gt;
+  &lt;li&gt;Mr. Poole&lt;/li&gt;
+  &lt;li&gt;Inspector Newcomen&lt;/li&gt;
+  &lt;li&gt;Sir Danvers Carew&lt;/li&gt;
+  &lt;li&gt;Maid&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reception&quot;&gt;Reception&lt;/h2&gt;
+
+&lt;p&gt;Strange Case of Dr Jekyll and Mr Hyde was an immediate success and is one of Stevenson’s best-selling works. Stage adaptations began in Boston and London and soon moved all across England and then towards his home Scotland within a year of its publication and it has gone on to inspire scores of major film and stage performances.&lt;/p&gt;
+
+&lt;p&gt;The Strange Case of Dr Jekyll and Mr Hyde was initially sold as a paperback for one shilling in the UK and one dollar in the U.S. The American publisher issued the book on 5 January 1886, four days before the first appearance of the UK edition issued by Longmans; Scribner’s published 3000 copies, only 1250 of them bound in cloth. Initially stores would not stock it until a review appeared in The Times, on 25 January 1886, giving it a favourable reception. Within the next six months, close to forty thousand copies were sold. The book’s success was probably due more to the “moral instincts of the public” than any perception of its artistic merits; it was widely read by those who never otherwise read fiction, quoted in pulpit sermons and in religious papers. By 1901 it was estimated to have sold over 250,000 copies.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Jan 2014 14:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/jekyll/2014/01/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/2014/01/09/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Strange Case of Dr Jekyll and Mr Hyde</title>
+        <description>&lt;p&gt;Strange Case of Dr Jekyll and Mr Hyde is the original title of a novella written by the Scottish author &lt;a href=&quot;&quot;&gt;Robert Louis Stevenson&lt;/a&gt; that was first published in 1886. The work is commonly known today as The Strange Case of Dr. Jekyll and Mr. Hyde, Dr. Jekyll and Mr. Hyde, or simply Jekyll &amp;amp; Hyde. It is about a London lawyer named Gabriel John Utterson who investigates strange occurrences between his old friend, Dr. Henry Jekyll, and the evil Edward Hyde.&lt;/p&gt;
+
+&lt;h2 id=&quot;inspiration--writing&quot;&gt;Inspiration &amp;amp; Writing&lt;/h2&gt;
+
+&lt;p&gt;Stevenson had long been intrigued by the idea of how personalities can affect a human and how to incorporate the interplay of good and evil into a story. While still a teenager, he developed a script for a play about Deacon Brodie, which he later reworked with the help of W. E. Henley and saw produced for the first time in 1882. In early 1884 he wrote the short story “Markheim”, which he revised in 1884 for publication in a Christmas annual. One night in late September or early October 1885, possibly while he was still revising “Markheim,” Stevenson had a dream, and upon wakening had the intuition for two or three scenes that would appear in the story. Biographer Graham Balfour quoted Stevenson’s wife Fanny Stevenson:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“In the small hours of one morning, I was awakened by cries of horror from Louis. Thinking he had a nightmare, I awakened him. He said angrily: ‘Why did you wake me? I was dreaming a fine bogey tale.’ I had awakened him at the first transformation scene.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;main-characters&quot;&gt;Main Characters&lt;/h2&gt;
+
+&lt;p&gt;The story revolves around &lt;strong&gt;8 main characters&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dr. Henry Jekyll/Edward Hyde&lt;/li&gt;
+  &lt;li&gt;Mr. Gabriel John Utterson&lt;/li&gt;
+  &lt;li&gt;Richard Enfield&lt;/li&gt;
+  &lt;li&gt;Dr. Hastie Lanyon&lt;/li&gt;
+  &lt;li&gt;Mr. Poole&lt;/li&gt;
+  &lt;li&gt;Inspector Newcomen&lt;/li&gt;
+  &lt;li&gt;Sir Danvers Carew&lt;/li&gt;
+  &lt;li&gt;Maid&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reception&quot;&gt;Reception&lt;/h2&gt;
+
+&lt;p&gt;Strange Case of Dr Jekyll and Mr Hyde was an immediate success and is one of Stevenson’s best-selling works. Stage adaptations began in Boston and London and soon moved all across England and then towards his home Scotland within a year of its publication and it has gone on to inspire scores of major film and stage performances.&lt;/p&gt;
+
+&lt;p&gt;The Strange Case of Dr Jekyll and Mr Hyde was initially sold as a paperback for one shilling in the UK and one dollar in the U.S. The American publisher issued the book on 5 January 1886, four days before the first appearance of the UK edition issued by Longmans; Scribner’s published 3000 copies, only 1250 of them bound in cloth. Initially stores would not stock it until a review appeared in The Times, on 25 January 1886, giving it a favourable reception. Within the next six months, close to forty thousand copies were sold. The book’s success was probably due more to the “moral instincts of the public” than any perception of its artistic merits; it was widely read by those who never otherwise read fiction, quoted in pulpit sermons and in religious papers. By 1901 it was estimated to have sold over 250,000 copies.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 08 Jan 2014 14:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/jekyll/2014/01/08/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/2014/01/08/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Strange Case of Dr Jekyll and Mr Hyde</title>
+        <description>&lt;p&gt;Strange Case of Dr Jekyll and Mr Hyde is the original title of a novella written by the Scottish author &lt;a href=&quot;&quot;&gt;Robert Louis Stevenson&lt;/a&gt; that was first published in 1886. The work is commonly known today as The Strange Case of Dr. Jekyll and Mr. Hyde, Dr. Jekyll and Mr. Hyde, or simply Jekyll &amp;amp; Hyde. It is about a London lawyer named Gabriel John Utterson who investigates strange occurrences between his old friend, Dr. Henry Jekyll, and the evil Edward Hyde.&lt;/p&gt;
+
+&lt;h2 id=&quot;inspiration--writing&quot;&gt;Inspiration &amp;amp; Writing&lt;/h2&gt;
+
+&lt;p&gt;Stevenson had long been intrigued by the idea of how personalities can affect a human and how to incorporate the interplay of good and evil into a story. While still a teenager, he developed a script for a play about Deacon Brodie, which he later reworked with the help of W. E. Henley and saw produced for the first time in 1882. In early 1884 he wrote the short story “Markheim”, which he revised in 1884 for publication in a Christmas annual. One night in late September or early October 1885, possibly while he was still revising “Markheim,” Stevenson had a dream, and upon wakening had the intuition for two or three scenes that would appear in the story. Biographer Graham Balfour quoted Stevenson’s wife Fanny Stevenson:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“In the small hours of one morning, I was awakened by cries of horror from Louis. Thinking he had a nightmare, I awakened him. He said angrily: ‘Why did you wake me? I was dreaming a fine bogey tale.’ I had awakened him at the first transformation scene.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;main-characters&quot;&gt;Main Characters&lt;/h2&gt;
+
+&lt;p&gt;The story revolves around &lt;strong&gt;8 main characters&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dr. Henry Jekyll/Edward Hyde&lt;/li&gt;
+  &lt;li&gt;Mr. Gabriel John Utterson&lt;/li&gt;
+  &lt;li&gt;Richard Enfield&lt;/li&gt;
+  &lt;li&gt;Dr. Hastie Lanyon&lt;/li&gt;
+  &lt;li&gt;Mr. Poole&lt;/li&gt;
+  &lt;li&gt;Inspector Newcomen&lt;/li&gt;
+  &lt;li&gt;Sir Danvers Carew&lt;/li&gt;
+  &lt;li&gt;Maid&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reception&quot;&gt;Reception&lt;/h2&gt;
+
+&lt;p&gt;Strange Case of Dr Jekyll and Mr Hyde was an immediate success and is one of Stevenson’s best-selling works. Stage adaptations began in Boston and London and soon moved all across England and then towards his home Scotland within a year of its publication and it has gone on to inspire scores of major film and stage performances.&lt;/p&gt;
+
+&lt;p&gt;The Strange Case of Dr Jekyll and Mr Hyde was initially sold as a paperback for one shilling in the UK and one dollar in the U.S. The American publisher issued the book on 5 January 1886, four days before the first appearance of the UK edition issued by Longmans; Scribner’s published 3000 copies, only 1250 of them bound in cloth. Initially stores would not stock it until a review appeared in The Times, on 25 January 1886, giving it a favourable reception. Within the next six months, close to forty thousand copies were sold. The book’s success was probably due more to the “moral instincts of the public” than any perception of its artistic merits; it was widely read by those who never otherwise read fiction, quoted in pulpit sermons and in religious papers. By 1901 it was estimated to have sold over 250,000 copies.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Jan 2014 14:00:00 +0200</pubDate>
+        <link>http://yourdomain.com/jekyll/2014/01/07/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/2014/01/07/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
         
       </item>
     
