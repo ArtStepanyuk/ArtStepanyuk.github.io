@@ -13,13 +13,13 @@ Happy Anniversary! New Eden Is 12 Years Old!
 <img src="http://web.ccpgamescdn.com/newssystem/media/67190/1/Fireworks_2.jpg" alt="">
 EVE Online celebrates its 12th birthday today, and here at CCP we'd like to wish a Happy 12th anniversary to our entire community!
 
-<p>Today marks a point in time 12 years ago when a flood of new identities were created in New Eden, and a handful of intrepid pilots took to the stars to explore a cold, harsh and unforgiving new world. Over a decade later that world has been transformed by players across the globe, becoming one of the largest and most vibrant works of science fiction in existence.
+Today marks a point in time 12 years ago when a flood of new identities were created in New Eden, and a handful of intrepid pilots took to the stars to explore a cold, harsh and unforgiving new world. Over a decade later that world has been transformed by players across the globe, becoming one of the largest and most vibrant works of science fiction in existence.
 
 The actions, reactions, hopes, aspirations, dreams, success and failure of capsuleers both individually and as collective groups over the last twelve years has shaped an immense, sprawling backstory that has become one of the grandest space operas to ever occur, and the best  part of the story is that it still evolves as we march into the second decade of New Eden's legacy.
 
 As we announced on Monday, we'd like to gift you all a pair of implants that many have been looking to acquire for some time after the release of the Genolution CA-1 and CA-2. Along with this, every account will receive a pair of male and female Mordu's Legion branded jackets as part of the anniversary celebrations. 
 
-The following items have been gifted to you today, and will appear in your redeeming system on the character selection screen:</p>
+The following items have been gifted to you today, and will appear in your redeeming system on the character selection screen:
 
     Genolution Core Augmentation CA-3
     Genolution Core Augmentation CA-4
