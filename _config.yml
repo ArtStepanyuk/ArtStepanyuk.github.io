@@ -12,13 +12,13 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: my closet
 
 description: Stylish Jekyll Theme
 author:
   name: Arthur
   email: lmasamunel1988@gmail.com
-  github: https://github.com/artstepanyuk
+  github: artstepanyuk
   twitter: notyet
   pinterest: asd123
   linkedin: asd123
