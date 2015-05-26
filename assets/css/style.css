@@ -101,21 +101,32 @@ article{
 .article_body{
 	margin-top: 20px;
 	margin-bottom: 20px;
+	margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: justify;
+    text-indent: 52px;
 }
 
 .post-date {
 	text-transform: uppercase;
 	font-size: 14px;
 	letter-spacing: 3px;
+	color: red;
+    font-size: 14px;
+    letter-spacing: 3px;
+    margin: 15px 0 15px 741px;
+    text-align: right;
+    text-transform: uppercase;
 }
 
 article {
 	padding: 0 5% 0;
 }
 
+
 article.home div a, article.home pre a { color: #2c3e50; }
 article.home div a:hover, article.home pre a:hover { color: #2c3e50; text-decoration: none; }
-article img { max-width: 100%; }
+article img { max-width: 100%; float:left; margin:20px auto;}
 
 h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
 article.home h1,
